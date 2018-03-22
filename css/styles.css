@@ -3,12 +3,14 @@ h1 {
   color: #939190;
   float: right;
   margin-right: 20px;
+  font-size: 40px;
 }
 
 h2 {
   text-align: left;
   margin-left: 20px;
   color: #3d84c7;
+  font-size: 30px;
 }
 h3 {
   text-align: left;
@@ -19,8 +21,39 @@ body {
   font-family: verdana;
 }
 
+.specs  p {
+  width: 350px;
+  float: left;
+  margin: 20px;
+  background-color: red;
+  border: solid #37351e;
+  padding: 10px;
+  font-size: 20px;
+  color: #fff;
+}
 
+.design p {
+  width: 350px;
+  float: left;
+  margin: 20px;
+  background-color: yellow;
+  border: solid #37351e;
+  padding: 10px;
+  font-size: 20px;
+  color: #444444;
+}
 
+.communicaton p {
+  width: 350px;
+  float: left;
+  margin: 20px;
+  background-color: green;
+  border: solid #37351e;
+  padding: 10px;
+  font-size: 20px;
+  color: #fff;
+}
+/*
 .column {
   width: 350px;
   float: left;
@@ -30,6 +63,7 @@ body {
   padding: 10px;
   font-size: 20px;
 }
+*/
 
 .logo {
   margin: 20px;
@@ -51,18 +85,6 @@ body {
   border: solid #37351e;
   padding: 10px;
 }
-
-.before {
-  color: red;
-}
-
-.during {
-   color: orange;
- }
-
-.after {
-   color: green;
- }
 
  .highlight {
    font-weight: bold;
