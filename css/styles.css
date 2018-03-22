@@ -1,0 +1,35 @@
+
+h1 {
+  text-align: center;
+  color: #939190;
+}
+
+h2 {
+  text-align: left;
+  margin-left: 20px;
+}
+
+body {
+  font-family: arial;
+}
+
+.sidebar {
+  float: right;
+  border: solid #37351e;
+  padding: 12px;
+  background-color: #c9c9c9;
+  margin-right: 90px;
+}
+
+.column {
+  width: 360px;
+  float: left;
+  margin: 20px;
+}
+
+.logo {
+  margin: 20px;
+}
+.design {
+  float: left;
+}
